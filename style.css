@@ -1,0 +1,46 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #FFE9D7;
+}
+
+.myImg{
+    width: 100%;
+}
+
+#description{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+
+.header{
+    padding-top: 50px;
+}
+
+h1,h2,h3{
+    color: #6A00AA;
+}
+
+h4{
+    font-style: italic;
+    font-weight:bold;
+
+}
+
+.guide{
+    font-size: larger;
+}
+
+.tq{
+   text-align: center;
+}
+
+#contact{
+    text-align: right;
+    font-weight: bold;
+    color: #6A00AA;
+}
+
+.footer{
+    padding-bottom: 50px;
+}
+
